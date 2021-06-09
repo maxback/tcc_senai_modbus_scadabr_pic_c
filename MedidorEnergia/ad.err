@@ -1,0 +1,7 @@
+Warning[2054] C:\Users\maxback\Senai\PI\PI\Programacao\C\PIC\lib\senai\ad.c 19 : suspicious pointer conversion
+Warning[2054] C:\Users\maxback\Senai\PI\PI\Programacao\C\PIC\lib\senai\ad.c 20 : suspicious pointer conversion
+Warning[2054] C:\Users\maxback\Senai\PI\PI\Programacao\C\PIC\lib\senai\ad.c 21 : suspicious pointer conversion
+Warning[2054] C:\Users\maxback\Senai\PI\PI\Programacao\C\PIC\lib\senai\ad.c 38 : suspicious pointer conversion
+Error[1105] C:\Users\maxback\Senai\PI\PI\Programacao\C\PIC\lib\senai\ad.c 42 : symbol 'GODONE' has not been defined
+Error[1101] C:\Users\maxback\Senai\PI\PI\Programacao\C\PIC\lib\senai\ad.c 42 : lvalue required
+Error[1105] C:\Users\maxback\Senai\PI\PI\Programacao\C\PIC\lib\senai\ad.c 43 : symbol 'GODONE' has not been defined

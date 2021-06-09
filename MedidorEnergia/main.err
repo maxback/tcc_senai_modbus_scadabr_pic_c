@@ -1,0 +1,34 @@
+Warning[2074] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 234 : location .tmpdata specified in the interrupt save list is redundant
+Warning[2074] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 235 : location PROD specified in the interrupt save list is redundant
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 686 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 687 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 688 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 689 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 690 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1225 : suspicious pointer conversion
+Warning[2054] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1274 : suspicious pointer conversion
+Warning[2054] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1275 : suspicious pointer conversion
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1450 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1452 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1454 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1457 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1463 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1469 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1474 : suspicious pointer conversion
+Warning[2054] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1474 : suspicious pointer conversion
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1496 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1512 : suspicious pointer conversion
+Warning[2054] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1512 : suspicious pointer conversion
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1533 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1536 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1538 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1540 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1544 : suspicious pointer conversion
+Warning[2054] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1544 : suspicious pointer conversion
+Warning[2058] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 1817 : call of function without prototype
+Warning[2054] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 2365 : suspicious pointer conversion
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 2469 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 2565 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 2596 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 2597 : type qualifier mismatch in assignment
+Warning[2054] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\MedidorEnergia\main.c 2600 : suspicious pointer conversion

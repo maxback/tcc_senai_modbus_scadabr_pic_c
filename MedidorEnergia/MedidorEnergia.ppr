@@ -1,0 +1,200 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+[Project tree]
+MedidorEnergia
+	+Fontes
+		protocolo.h
+		protocolo.c
+		main.c
+		global.h
+		captura.h
+		captura.c
+		..\lib\kitmcu\lcd.h
+		..\lib\senai\Serial.h
+		..\lib\senai\Serial.c
+		..\lib\kitmcu\lcd.c
+		barcode.h
+		barcode.c
+		..\lib\base\base.h
+		barra.h
+		barra.c
+		..\lib\kitmcu\utils.h
+		..\lib\kitmcu\utils.c
+		..\lib\senai\eeprom.h
+		..\..\PIC - bkp1 - serial ok - erros dados\lib\senai\eeprom.c
+[Open project files]
+0=global.h
+1=protocolo.h
+2=protocolo.c
+3=..\lib\senai\Serial.h
+4=..\lib\kitmcu\lcd.h
+5=..\lib\senai\Serial.c
+6=dados.h
+7=captura.c
+8=barcode.c
+9=barcode.h
+10=..\lib\kitmcu\utils.h
+11=..\lib\kitmcu\utils.c
+12=..\lib\base\base.h
+13=barra.h
+14=barra.c
+15=captura.h
+16=..\..\PIC - bkp1 - serial ok - erros dados\lib\senai\eeprom.c
+17=..\lib\senai\eeprom.h
+18=..\lib\kitmcu\lcd.c
+19=main.c
+20=..\lib\senai\teclado.c
+21=..\..\..\..\..\..\..\..\..\..\MCC18\h\stdio.h
+22=..\..\PIC - bkpf - array de callback d ticktimer para ser ponteiro 1 vwz por mudulo - ok - ainda tes ser\MedidorEnergia\MedidorEnergia.map
+23=copia_hex.bat
+24=..\..\PIC - bkp1 - serial ok - erros dados\MedidorEnergia\main.c
+25=m25pxx.h
+26=m25pxx.c
+27=..\..\..\..\Supervisorio\tags_teste_modbus.TXT
+[Selected Project Files]
+Main=
+Selected=..\lib\kitmcu\lcd.h
+[global.h]
+TopLine=9
+Caret=59,25
+[protocolo.h]
+TopLine=125
+Caret=38,146
+[protocolo.c]
+TopLine=523
+Caret=20,538
+BookMark0=65,415
+BookMark1=24,117
+BookMark2=28,515
+BookMark3=3,615
+BookMark4=3,628
+BookMark8=15,447
+BookMark9=8,215
+[..\lib\senai\Serial.h]
+TopLine=5
+Caret=37,28
+[..\lib\kitmcu\lcd.h]
+TopLine=1
+Caret=92,59
+[..\lib\senai\Serial.c]
+TopLine=211
+Caret=16,225
+[dados.h]
+TopLine=99
+Caret=1,114
+[captura.c]
+TopLine=703
+Caret=3,739
+BookMark0=7,636
+BookMark1=8,679
+BookMark2=4,473
+BookMark3=13,556
+BookMark4=41,696
+BookMark5=20,730
+BookMark6=7,740
+BookMark8=8,155
+BookMark9=43,113
+[barcode.c]
+TopLine=612
+Caret=35,620
+BookMark0=32,679
+BookMark1=34,808
+BookMark2=5,855
+BookMark3=23,594
+BookMark4=27,613
+BookMark8=38,471
+BookMark9=15,71
+[barcode.h]
+TopLine=101
+Caret=3,126
+BookMark0=54,91
+BookMark9=20,331
+[..\lib\kitmcu\utils.h]
+TopLine=1
+Caret=55,21
+[..\lib\kitmcu\utils.c]
+TopLine=720
+Caret=1,738
+BookMark0=47,359
+BookMark1=7,122
+BookMark2=7,185
+BookMark3=7,347
+BookMark4=7,397
+BookMark7=26,636
+BookMark8=13,145
+BookMark9=66,68
+[..\lib\base\base.h]
+TopLine=41
+Caret=1,44
+[barra.h]
+TopLine=16
+Caret=3,33
+[barra.c]
+TopLine=277
+Caret=15,291
+[captura.h]
+TopLine=27
+Caret=14,44
+[..\..\PIC - bkp1 - serial ok - erros dados\lib\senai\eeprom.c]
+TopLine=21
+Caret=70,21
+[..\lib\senai\eeprom.h]
+TopLine=1
+Caret=3,11
+[..\lib\kitmcu\lcd.c]
+TopLine=75
+Caret=14,93
+BookMark0=7,266
+[main.c]
+TopLine=2620
+Caret=46,2638
+BookMark0=3,1664
+BookMark1=3,1085
+BookMark2=11,703
+BookMark3=15,2525
+BookMark4=37,2578
+BookMark5=10,2636
+BookMark6=43,1074
+BookMark7=9,764
+BookMark8=20,1471
+[..\lib\senai\teclado.c]
+TopLine=14
+Caret=1,23
+[..\..\..\..\..\..\..\..\..\..\MCC18\h\stdio.h]
+TopLine=1
+Caret=1,10
+[..\..\PIC - bkpf - array de callback d ticktimer para ser ponteiro 1 vwz por mudulo - ok - ainda tes ser\MedidorEnergia\MedidorEnergia.map]
+TopLine=95
+Caret=70,113
+[copia_hex.bat]
+TopLine=1
+Caret=28,2
+[..\..\PIC - bkp1 - serial ok - erros dados\MedidorEnergia\main.c]
+TopLine=1459
+Caret=1,1466
+BookMark0=16,763
+BookMark1=16,776
+BookMark2=19,788
+BookMark4=19,843
+BookMark5=18,1466
+BookMark6=15,1640
+BookMark7=13,1718
+BookMark9=5,1774
+[m25pxx.h]
+TopLine=1
+Caret=1,1
+[m25pxx.c]
+TopLine=1
+Caret=1,1
+[..\..\..\..\Supervisorio\tags_teste_modbus.TXT]
+TopLine=1161
+Caret=64,1168

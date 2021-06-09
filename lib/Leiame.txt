@@ -1,0 +1,7 @@
+Todos os módulos devem ter definição de acesso a hw para a KIT18F da MCU
+Caso sejam do senai ou de outros fornecedores colocar um #ifdef para PROJETO_PI
+tendo dentro deste a definição do KIT e no #else a definição original.
+
+All modules must have hw access definition for MCU KIT18F
+If they are from Senai or other suppliers, put a #ifdef for PROJETO_PI
+having inside it the KIT definition and in #else the original definition.

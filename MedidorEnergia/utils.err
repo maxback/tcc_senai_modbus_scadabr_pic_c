@@ -1,0 +1,2 @@
+Warning[2074] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\lib\kitmcu\utils.c 87 : location .tmpdata specified in the interrupt save list is redundant
+Warning[2074] C:\Users\maxback\Senai\2010\TCC\Projeto\Programacao\C\PIC\lib\kitmcu\utils.c 88 : location PROD specified in the interrupt save list is redundant
